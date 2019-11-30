@@ -1,4 +1,5 @@
 # startup_namer
+![](https://github.com/tommywo/flutter-study-jam-startup-generator/workflows/Flutter%20CI/badge.svg)
 
 A new Flutter application.
 
